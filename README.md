@@ -29,3 +29,8 @@ Copy this url:
 ### Any more question
 
 feel free to reach out to @Xianhao(Carton) Liu
+
+
+### Gesture Update
+A thumbs-up with the right hand can now take a screenshot. 
+Clenching your fist will generate an idea.
