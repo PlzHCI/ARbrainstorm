@@ -11,7 +11,7 @@ public class SocketManager : MonoBehaviour
     void Start()
     {
         //TODO: check the Uri if Valid.
-        var uri = new Uri("http://10.131.100.68:3000/");
+        var uri = new Uri("http://10.130.197.196:3000/");
         socket = new SocketIOUnity(
             uri,
             new SocketIOOptions
