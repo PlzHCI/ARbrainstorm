@@ -16,6 +16,7 @@ public class ScreenshotHandler : MonoBehaviour
 
     void UpdateLogText(string s)
     {
+        //The Debug statements keep the same.
         LogText.text += "\n" + s;
     }
 }

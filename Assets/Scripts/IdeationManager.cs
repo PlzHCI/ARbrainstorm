@@ -27,6 +27,7 @@ public class IdeationManager : MonoBehaviour
 
     void UpdateLogText(string s)
     {
-        LogText.text += "\n" + s;
+        // To avoid too long text, we do not append to the text.
+        LogText.text = s;
     }
 }
