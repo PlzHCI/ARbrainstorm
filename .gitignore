@@ -75,3 +75,7 @@ crashlytics-build.properties
 
 .DS_Store
 .vscode
+
+# Mono crash dumps
+mono_crash.*
+*.blob
