@@ -34,3 +34,15 @@ feel free to reach out to @Xianhao(Carton) Liu
 ### Gesture Update
 A thumbs-up with the right hand can now take a screenshot. 
 Clenching your fist will generate an idea.
+
+## Palm Menu Update
+The output will be on your left-hand menu
+
+## Potential needed improvements
+[√] Prevent too much text from being displayed
+[ ] Update prompt to make AI response better
+[ ] Too sensitive gesture recognition (It's easy to trigger some actions unintentionally)
+[ ] Redundant UI elements should be removed
+
+## Next Steps
+TBD
